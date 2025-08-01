@@ -1,5 +1,7 @@
 # 🧪 QA Manual Testing – OpenCart Demo
 
+Status : Ongoing
+
 This is a portfolio project created by **Theo Nugraha** to demonstrate skills in manual testing as a Junior QA Engineer candidate.  
 The website used for testing is an open-source e-commerce demo: [https://demo.opencart.com](https://demo.opencart.com)
 
@@ -31,15 +33,25 @@ The website used for testing is an open-source e-commerce demo: [https://demo.op
 ## 📂 Folder Structure
 
 QA-OpenCart-Portfolio/
+
 ├── 1_Test_Plan/
+
 │ └── test_plan_opencart.pdf
+
 ├── 2_Test_Cases/
+
 │ └── test_cases_login.xlsx
+
 │ └── test_cases_register.xlsx
+
 ├── 3_Bug_Reports/
+
 │ └── bug_report_opencart.xlsx
+
 ├── 4_Test_Summary/
+
 │ └── test_summary_report.pdf
+
 └── README.md
 
 
